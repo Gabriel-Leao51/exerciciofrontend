@@ -1,0 +1,51 @@
+.main {
+    background-size: grid;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    justify-content: center;
+    padding: 0% 20%;
+}
+
+header {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    color:rgb(255, 255, 255);
+    background-color:rgb(254, 140, 0);
+    padding:1,8%;
+    border-radius:8px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size:xx-large; 
+    text-align: center;
+    outline: auto;
+}
+
+img {
+    shape-rendering: crispEdges;
+    outline:auto;
+   
+}
+.pag {
+    display: none;
+}
+.active{
+    display: block;
+}
+
+.ingcontainer{
+    align-items:center;
+    justify-content: center;
+    background-color: rgb(254, 140, 0);
+    padding:2%;
+    color: white;
+}
+
+.container {
+    align-items:center;
+    justify-content: center;
+    outline: auto;
+    background-color: aliceblue;
+    color: black;
+}
